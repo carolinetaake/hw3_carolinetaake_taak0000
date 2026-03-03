@@ -10,7 +10,7 @@ while (true)
 {
     Console.WriteLine();
     Console.WriteLine("1. add a person and party size");
-    Console.WriteLine("remove a person by name");
+    Console.WriteLine("3. remove a person by name");
     Console.WriteLine("Any other key to exit");
     Console.Write("Please choose: ");
 
